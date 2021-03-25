@@ -1,3 +1,11 @@
+/********************************************************/
+/* 
+ * EJEMPLO DE PWM PARA CONTROLAR LEDS
+ * Y EVENTUALMENTE OTRAS CARGAS MEDIANTE
+ * UN TRANSISTOR NPN
+ */
+ /*******************************************************/
+ 
 const int LED_PIN = 3; //Elegimos un pin con PWM
 
 int delayTime = 1000; //tiempo de delay en milisegundos
